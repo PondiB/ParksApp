@@ -1,4 +1,4 @@
-package com.example.pondibrian.parksapp;
+package com.example.pondibrian.parks;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

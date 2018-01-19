@@ -1,4 +1,4 @@
-package com.example.pondibrian.parksapp;
+package com.example.pondibrian.parks;
 
 import org.junit.Test;
 
