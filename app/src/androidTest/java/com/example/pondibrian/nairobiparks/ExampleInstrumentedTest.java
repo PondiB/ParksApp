@@ -1,4 +1,4 @@
-package com.example.pondibrian.parks;
+package com.example.pondibrian.nairobiparks;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.pondibrian.parks", appContext.getPackageName());
+        assertEquals("com.example.pondibrian.nairobiparks", appContext.getPackageName());
     }
 }
