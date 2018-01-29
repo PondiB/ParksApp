@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Nairobi Parks</string>
+    <string name="drawer_opened">Select an Item</string>
+    <string name="drawer_closed">Nairobi Parks</string>
 </resources>
